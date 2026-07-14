@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 .env
 .ipynb_checkpoints/
+data/raw/
+data/cleaned_portscan.csv
+data/risk_data.csv
